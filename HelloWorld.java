@@ -5,5 +5,6 @@ class HelloWorld {
 
     public static void main(String[] args) {
         HelloWorld o1 = new HelloWorld();
+        System.out.println("One more line is added in main function");
     }
 }
