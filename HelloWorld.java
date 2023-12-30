@@ -6,5 +6,6 @@ class HelloWorld {
     public static void main(String[] args) {
         Student s = new Student();
         s.sayHello();
+        System.err.println("This line is added for ec2");
     }
 }
